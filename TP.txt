@@ -1,0 +1,5 @@
+git init (commande d'initialisation du projet)
+git add --all (permet de faire les indexations)
+git commit -m (permet d'enregistrer la modification)
+git remote add origin 'URL' ()
+git push -u  origin 'main' ()
